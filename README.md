@@ -1,1 +1,7 @@
-Hi! We have to create a File Manager using Python3 and Flask. Now i dk what to write here, but i`ll think about it
+# Task description
+
+Create service to retrieve/update file system in *server root* location.
+
+Use *Flask* to make web service (*Flask-RESTful*, *Swagger* as well)
+
+Use static HTML pages and *jQuery* to create rich interface.
